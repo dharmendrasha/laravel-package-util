@@ -1,0 +1,25 @@
+{
+    "name": "soni/util",
+    "description": "laravel util funcionality",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Soni\\Util\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dharmendra Soni",
+            "email": "dharmendra.soni@elitale.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Soni\\Util\\UtilServiceProvider"
+            ]
+        }
+    }
+}
