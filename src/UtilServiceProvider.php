@@ -1,8 +1,8 @@
 <?php
 
-namespace Soni\Util;
+namespace Dharmendrashaeagle\Util;
 use Illuminate\Support\ServiceProvider;
-use Soni\Util\Util;
+use Dharmendrashaeagle\Util\Util;
 
 class UtilServiceProvider extends ServiceProvider
 {

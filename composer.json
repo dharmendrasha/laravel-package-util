@@ -1,11 +1,11 @@
 {
-    "name": "soni/util",
+    "name": "dharmendrashaeagle/util",
     "description": "laravel util funcionality",
     "type": "library",
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Soni\\Util\\": "src/"
+            "Dharmendrashaeagle\\Util\\": "src/"
         }
     },
     "authors": [
@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Soni\\Util\\UtilServiceProvider"
+                "Dharmendrashaeagle\\Util\\UtilServiceProvider"
             ]
         }
     }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Soni\Util;
+namespace Dharmendrashaeagle\Util;
 
 class Util
 {
